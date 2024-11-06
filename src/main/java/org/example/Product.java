@@ -1,5 +1,6 @@
 package org.example;
 
+import java.lang.reflect.Constructor;
 import java.util.ArrayList;
 public class Product {
 
@@ -10,6 +11,4 @@ public class Product {
         int Quantity;
     }
     ArrayList<String> ProductName = new ArrayList<String>();
-
-
 }
