@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2oU0Ti1sG1UuDieqfY5JJMXJWwW" />
@@ -47,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730908861263</updated>
-      <workItem from="1730908862264" duration="692000" />
+      <workItem from="1730908862264" duration="1014000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1730909357424</created>
@@ -56,7 +61,28 @@
       <option name="project" value="LOCAL" />
       <updated>1730909357424</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1730909668644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730909668644</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1730909756045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730909756045</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1730909835920</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730909835920</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
